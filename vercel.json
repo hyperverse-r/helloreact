@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://hello.demo.breant.art/:path*"
+      "destination": "https://hello.demo.hyperverse.world/:path*"
     }
   ]
 }

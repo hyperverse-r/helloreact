@@ -1,6 +1,6 @@
 # hello-react
 
-React frontend for the [htmxr hello example](https://hello.demo.breant.art/).
+React frontend for the [htmxr hello example](https://hello.demo.hyperverse.world/).
 
 ## Context
 
@@ -20,7 +20,7 @@ This is the key insight: **htmxr is not a framework that locks you into a specif
 
 - **Vite + React + TypeScript**
 - Bootstrap 5 via CDN (identical to the htmxr version)
-- `/api/*` proxy → `https://hello.demo.breant.art/*` (dev and prod)
+- `/api/*` proxy → `https://hello.demo.hyperverse.world/*` (dev and prod)
 
 ## Run locally
 
